@@ -24,7 +24,7 @@
                 <th>Peso ( en [kg] )</th>
                 <th>Precio  ( en clp )</th>
             </tr>
-            <c:forEach items="${cliente}" var="cliente">
+            <c:forEach items="${articulo}" var="articulo">
                 <tr>
                     <td><c:out value="${articulos.getnombreArticulo()}"></c:out> </td>
                     <td> <c:out value="${articulos.getTipoArticulo()}"></c:out> </td>
