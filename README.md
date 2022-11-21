@@ -1,3 +1,3 @@
 # Felipe Fuentes Moris ICI-I   
 
-taller 3 y diagrama UML en formato jpg
+codigo y diagrama UML en la carpeta taller3
